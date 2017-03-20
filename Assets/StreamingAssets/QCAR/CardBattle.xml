@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="card_blue_4" size="1.000000 1.500000" />
+    <ImageTarget name="card_grey_3" size="1.000000 1.500000" />
+    <ImageTarget name="card_red_4" size="1.000000 1.500000" />
+    <ImageTarget name="card_red_2" size="1.000000 1.500000" />
+    <ImageTarget name="card_red_1" size="1.000000 1.500000" />
+    <ImageTarget name="card_green_4" size="1.000000 1.500000" />
+    <ImageTarget name="card_green_2" size="1.000000 1.500000" />
+    <ImageTarget name="card_green_1" size="1.000000 1.500000" />
+    <ImageTarget name="card_blue_2" size="1.000000 1.500000" />
+    <ImageTarget name="card_blue_1" size="1.000000 1.500000" />
+  </Tracking>
+</QCARConfig>
